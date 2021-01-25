@@ -281,5 +281,4 @@ Partition 3 (25 KB) = Empty.
  - ## **[Mohamed AbdAlmajed Idrees](https://www.facebook.com/Mohamadidrees18) implement the worst Fit part.**
  - ## **[Mohamed Mahmoud Ali](https://www.facebook.com/mohamed.thesnak.official1) implement the Best Fit part.**
 
-
-> Licence of Readme to Thesnak
+> Licence of Readme to Thesnak , Tarek Idrees
